@@ -179,7 +179,7 @@ app.Run();
 
 We create a new folder **Chatbot** inside the **Components** folder
 
-![image](https://github.com/user-attachments/assets/24f74f8c-eb4d-46f9-9307-85a4dfab7324)
+![image](https://github.com/user-attachments/assets/577166ba-2a16-4e71-ac29-8d0cba624895)
 
 Then we are going to create the classes files and razor components
 
@@ -458,12 +458,9 @@ Welcome to your new app.
 
 ## 7. Run the application a see the results
 
-![image](https://github.com/user-attachments/assets/b3d806c5-7771-4fe4-a67c-ce6fb8467142)
-
-![image](https://github.com/user-attachments/assets/5266611a-413e-48b9-baa1-400526813590)
 
 We write the message and press the Send button
 
-![image](https://github.com/user-attachments/assets/97b84e9a-7ed8-4d63-89a6-aa772afbfaeb)
+
 
 
