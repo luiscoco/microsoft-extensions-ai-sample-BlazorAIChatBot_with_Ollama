@@ -430,30 +430,6 @@ We have to invoke the Show Chatbot button from the home page, for this purpose w
 Welcome to your new app.
 
 <ShowChatbotButton />
-
-@code {
-
-    string ollamaSLMName = "";
-    string ollamaModelUrl = "";
-    string ollamaModelUrlModelList = "";
-    string ollamaUrl = "";
-    string modelStatus = "";
-
-    protected override void OnInitialized()
-    {
-        // Set model name directly based on your screenshot information
-        ollamaSLMName = "phi3:latest";
-
-        // URL to Ollama model running on the local machine on port 11434
-        ollamaModelUrl = $@"http://localhost:11434/library/{ollamaSLMName}";
-
-        // Base URL for the local Ollama instance on port 11434
-        ollamaUrl = "http://localhost:11434";
-
-        // Endpoint to retrieve model list from local Ollama instance
-        ollamaModelUrlModelList = $@"{ollamaUrl}/api/tags";
-    }
-}
 ```
 
 ## 7. Run the application a see the results
