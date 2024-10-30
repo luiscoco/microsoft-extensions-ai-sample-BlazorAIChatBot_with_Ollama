@@ -198,7 +198,7 @@ using Microsoft.Extensions.AI;
 using System.Security.Claims;
 using System.Text;
 
-namespace AspireApp.WebApp.Chatbot;
+namespace BlazorAIChatBotOllama.Components.Chatbot;
 
 public class ChatState
 {
@@ -253,7 +253,7 @@ using System.Text.Encodings.Web;
 using System.Text.RegularExpressions;
 using Microsoft.AspNetCore.Components;
 
-namespace AspireApp.WebApp.Chatbot;
+namespace BlazorAIChatBotOllama.Components.Chatbot;
 
 public static partial class MessageProcessor
 {
@@ -319,7 +319,7 @@ And also we create the Chatbot razor component
 ```razor
 @rendermode @(new InteractiveServerRenderMode(prerender: false))
 @using Microsoft.AspNetCore.Components.Authorization
-@using AspireApp.WebApp.Chatbot
+@using BlazorAIChatBotOllama.Components.Chatbot
 @using Microsoft.Extensions.AI
 @inject IJSRuntime JS
 @inject NavigationManager Nav
