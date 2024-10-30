@@ -44,19 +44,19 @@ curl -X POST http://localhost:11434/v1/completions ^
 
 We run Visual Studio 2022 Community Edition and we Create a new Project
 
-
+![image](https://github.com/user-attachments/assets/50ab5224-a631-4e07-95ab-856640c91f83)
 
 We select the Blazor Web App project template
 
-
+![image](https://github.com/user-attachments/assets/91f9c737-5891-403d-8178-7e8fd100a8af)
 
 We input the project name and location
 
-
+![image](https://github.com/user-attachments/assets/9ebec360-f719-4ad9-9591-b9118ba23ec3)
 
 We select the .NET 9 framework and leave the other options with the default values, and we press the Create button
 
-
+![image](https://github.com/user-attachments/assets/da2e303b-1947-43e9-bef7-0a02dc670f15)
 
 We verify the project folders and files structure
 
