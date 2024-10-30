@@ -458,9 +458,13 @@ Welcome to your new app.
 
 ## 7. Run the application a see the results
 
+![image](https://github.com/user-attachments/assets/ca75a221-32ae-46b7-a223-ff3a22a0cf1d)
+
+![image](https://github.com/user-attachments/assets/e530c46e-933b-474c-b41a-89df511030b5)
 
 We write the message and press the Send button
 
+![image](https://github.com/user-attachments/assets/f365b669-e6e1-48ab-b12b-1526a9c883d4)
 
 
 
