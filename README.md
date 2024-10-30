@@ -1,4 +1,4 @@
-# How to create a Blazor Web App (.NET9) with an AI ChatBot and Ollama phi3:latest model
+# Building a Blazor Web App with AI ChatBot Integration Using .NET 9 and the Ollama Phi3 Model
 
 ## 1. Donwload and Install AI Ollama in your laptop
 
